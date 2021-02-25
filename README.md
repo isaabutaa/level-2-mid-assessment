@@ -1,5 +1,9 @@
 # level-2-mid-assessment
-A set of exercises to practice various array methods and set Interval &amp; set Timeout
+
+To clone this repository, navigate to your terminal, and in the directory you want to clone the repository into, type
+```
+    git clone https://github.com/isaabutaa/level-2-mid-assessment.git
+```
 
 ## Part 1
 
