@@ -1,4 +1,4 @@
-// You will be using this array of user objects for the exercises. View the exercises below:
+// You will be using this array of user objects for the exercises. Use console.log to see your answers in the terminal. View the exercises below:
 
 const userData = [
     {
